@@ -1,1 +1,5 @@
-print("Hola, este archivo está conectado con Git y GitHubijnhfijwhijwehf ")
+print("Hola ")
+print("es ")
+print("jueves ")
+print("tengo ")
+print("hambre ")
